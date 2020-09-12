@@ -1,0 +1,6 @@
+click==6.7
+tqdm==4.11.2
+PyYAML==3.12
+colorlog==2.10.0
+requests==2.0
+tensorflow==2.2.0
